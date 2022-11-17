@@ -1,7 +1,7 @@
-# -- Hi, My name is Pawstep!
-local workingon = [ "palera1n", "Permasigner", "Zyno", "itsnebula.net" ]
-local favoriteprogramlanguages = [ "LUA", "Python" ]
-local learning = [ "Python" ]
+-- Hi, My name is Pawstep!
+local workingon = ("getting a new domain lol")
+local favoriteprogramlanguages = ("Lua", "Python")
+local learningrightnow = ("Python")
 
-# -- Please encrypt your emails if necessary
-local email = "5dkyQHivc7zYxjCmN4qAMH7qtkfPn8@proton.me"
+-- Please encrypt your emails if needed.
+local email = ("5dkyQHivc7zYxjCmN4qAMH7qtkfPn8@proton.me")
