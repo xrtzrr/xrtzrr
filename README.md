@@ -1,4 +1,4 @@
--- Hi, My name is Pawstep!
+Hi, My name is Pawstep!
 local workingon = ("getting a new domain lol")
 local favoriteprogramlanguages = ("Lua", "Python")
 local learningrightnow = ("Python")
